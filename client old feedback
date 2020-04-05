@@ -1,0 +1,14 @@
+1) the writer did not implement STL maps into the program as highlighted in the request.
+2) the writer did not implement template BST into the program as highlighted in the request.
+3) the writer did not provide a .cpp & . h file for and of the requested classes , "Sensor", "Date", "Time".etc.
+4) the writer did not do the program in object oriented approach as requested.
+5) the writer did not follow the requested Menu options as provided in the document.
+6) the program does not work on the files as provided in the "Data" folder as requested.
+these are most of the major request in the assignment document. and it is not met al all
+
+1) the .CPP and .H files are specifically requested for some of the classes in my request.
+2) combining the codes into one does not meet my request of object oriented programming.
+3) the functions provided to read the data does not read and store the data as specified in my request.
+4) date, time, solar radiation, wind speed, ambient temperature are all not read and stored.
+5) data with "N/A" were not handled and ignored as specifically requested.
+6) the TEMPLATE BST AND STL MAP IS MADATORY to be impleted into the design of the whole program, this part was not done at all.  
